@@ -76,3 +76,8 @@ The output appears in `dist/Manipulator/`. macOS works from source but is not pa
 
 - Tk's menu bar and native dialogs (`filedialog`, `messagebox`) follow the OS theme, not sv-ttk - in dark mode you will have a dark window body with a light menu/dialog. This is a Tk limitation.
 - macOS is not part of the release pipeline. The code runs there fine; build from source if you want a `.app`.
+
+## Use of "AI"
+
+I am not great at programming, and therefore spent way too much time on my first version of this app (not this repo).
+Since I was re-creating what I already had, I decided to use Claude Code to create this version.
