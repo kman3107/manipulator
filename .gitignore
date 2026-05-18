@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Pyinstaller-generated files
+*.spec
+
+# Virtual environments
+.venv
+
+# For personal use (Kman3107)
+favicon_light.ico
+pyinstaller-command.txt
+
+# Claude
+CLAUDE.md
